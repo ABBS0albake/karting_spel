@@ -1,17 +1,17 @@
 # This .gitignore file should be placed at the root of your Unity project directory
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
-#
-/FriendlyBossV1/Library/
-/FriendlyBossV1/Temp/
-/FriendlyBossV1/obj/
-/FriendlyBossV1/Logs/
-/FriendlyBossV1/UserSettings/
-/FriendlyBossV2New/Library/
-/FriendlyBossV2New/Temp/
-/FriendlyBossV2New/obj/
-/FriendlyBossV2New/Logs/
-/FriendlyBossV2New/UserSettings/
+
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
 	
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
